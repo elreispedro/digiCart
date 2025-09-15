@@ -31,12 +31,12 @@ Acompanhe o progresso e as próximas funcionalidades no arquivo [TODO.md](./TODO
 
 ## 📸 Screenshots
 
-https://github.com/elreispedro/digiCart/blob/main/images/video.gif
+![dicart](https://github.com/elreispedro/digiCart/blob/main/images/video.gif)
 
-https://github.com/elreispedro/digiCart/blob/main/images/digicart_3.png
-https://github.com/elreispedro/digiCart/blob/main/images/digicart.png
-https://github.com/elreispedro/digiCart/blob/main/images/digicart_1.png
-https://github.com/elreispedro/digiCart/blob/main/images/digicart_2.png
+![dicart](https://github.com/elreispedro/digiCart/blob/main/images/digicart_3.png)
+![dicart](https://github.com/elreispedro/digiCart/blob/main/images/digicart.png)
+![dicart](https://github.com/elreispedro/digiCart/blob/main/images/digicart_1.png)
+![dicart](https://github.com/elreispedro/digiCart/blob/main/images/digicart_2.png)
 ---
 
 
