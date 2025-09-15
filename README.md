@@ -7,7 +7,7 @@
 ## 🚀 Funcionalidades
 
 - ✅ **Compatível com Windows** (Windows 10 ou superior)  
-- ✅ Até **36 cartuchos simultâneos**  
+- ✅ Até **36 cartuchos**  
 - ✅ **Customização visual**: cores dos cartuchos e fontes personalizáveis  
 - ✅ **Atalhos de teclado configuráveis**, podendo ser integrados com **Stream Deck**  
 - ✅ Suporte a **formatos populares**: mp3, wav, aac, flac, ogg  
