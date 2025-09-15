@@ -31,7 +31,10 @@ Acompanhe o progresso e as próximas funcionalidades no arquivo [TODO.md](./TODO
 
 ## 📸 Screenshots
 
-![dicart](https://github.com/elreispedro/digiCart/blob/main/images/video.gif)
+<p align="center">
+  <img src="https://github.com/elreispedro/digiCart/blob/main/images/video.gif" alt="dicart">
+</p>
+
 
 ![dicart](https://github.com/elreispedro/digiCart/blob/main/images/digicart_3.png)
 ![dicart](https://github.com/elreispedro/digiCart/blob/main/images/digicart.png)
