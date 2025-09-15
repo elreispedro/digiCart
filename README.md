@@ -29,6 +29,8 @@ Acompanhe o progresso e as próximas funcionalidades no arquivo [TODO.md](./TODO
 
 ---
 
+## 📸 Screenshots
+---
 ## ⚙️ Como executar (para desenvolvedores)
 
 Clone o repositório:
@@ -37,7 +39,7 @@ Clone o repositório:
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 
-📸 Screenshots
+
 
 
 
